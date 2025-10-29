@@ -51,9 +51,9 @@ GOOGLE_CLIENT_ID=your-google-client-id.apps.googleusercontent.com
 GOOGLE_CLIENT_SECRET=your-google-client-secret
 
 # Cloudinary (Video Storage)
-CLOUDINARY_CLOUD_NAME=dontgpfyd
-CLOUDINARY_API_KEY=373724797657957
-CLOUDINARY_API_SECRET=ntimzsRi2ziTjADN8Dd4QykzFcc
+CLOUDINARY_CLOUD_NAME=your-cloud-name
+CLOUDINARY_API_KEY=your-api-key
+CLOUDINARY_API_SECRET=your-api-secret
 
 # CORS
 FRONTEND_URL=http://localhost:5173
@@ -269,9 +269,9 @@ Emails will be logged to console instead
 ### Cloudinary Upload Fails
 ```
 Check credentials in .env:
-CLOUDINARY_CLOUD_NAME=dontgpfyd
-CLOUDINARY_API_KEY=373724797657957
-CLOUDINARY_API_SECRET=ntimzsRi2ziTjADN8Dd4QykzFcc
+CLOUDINARY_CLOUD_NAME=your-cloud-name
+CLOUDINARY_API_KEY=your-api-key
+CLOUDINARY_API_SECRET=your-api-secret
 ```
 
 ### Username Already Taken

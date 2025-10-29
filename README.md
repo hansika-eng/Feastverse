@@ -101,9 +101,9 @@ Visit: http://localhost:5173
 
 ### 2. Cloudinary (Pre-configured)
 ```
-Cloud Name: dontgpfyd
-API Key: 373724797657957
-API Secret: ntimzsRi2ziTjADN8Dd4QykzFcc
+Cloud Name: your-cloud-name
+API Key: your-api-key
+API Secret: your-api-secret
 ```
 
 ### 3. Google OAuth (Pre-configured)
