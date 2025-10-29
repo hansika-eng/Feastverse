@@ -108,7 +108,7 @@ API Secret: your-api-secret
 
 ### 3. Google OAuth (Pre-configured)
 ```
-Client ID: 830474179707-op5qs67ft5ijgdjqjhmnnab2tk52on6g
+Client ID: your-google-client-id
 ```
 
 ### 4. Email (Optional)
